@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/crop",
   "textures": {
-    "crop": "minecraft:block/nether_wart_stage2"
+    "crop": "minecraft:block/warped_wart_stage"
   }
 }
