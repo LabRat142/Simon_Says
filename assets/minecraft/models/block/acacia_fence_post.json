@@ -1,6 +1,6 @@
 {
-    "parent": "block/fence_post",
-    "textures": {
-        "texture": "blocks/log_birch"
-    }
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "minecraft:block/birch_log"
+  }
 }

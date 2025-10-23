@@ -1,12 +1,8 @@
 {
-    "parent": "block/cube_directional",
-    "textures": {
-        "particle": "blocks/repeating_command_block_back",
-        "down": "blocks/repeating_command_block_conditional",
-        "up": "blocks/repeating_command_block_conditional",
-        "north": "blocks/repeating_command_block_front",
-        "east": "blocks/repeating_command_block_conditional",
-        "south": "blocks/repeating_command_block_back",
-        "west": "blocks/repeating_command_block_conditional"
-    }
+  "parent": "minecraft:block/template_command_block",
+  "textures": {
+    "front": "minecraft:block/repeating_command_block_front",
+    "back": "minecraft:block/repeating_command_block_back",
+    "side": "minecraft:block/repeating_command_block_conditional"
+  }
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "block/fence_post",
-    "textures": {
-        "texture": "blocks/end_stone"
-    }
+  "parent": "minecraft:block/fence_post",
+  "textures": {
+    "texture": "minecraft:block/end_stone"
+  }
 }

@@ -1,6 +1,6 @@
 {
-    "parent": "block/fence_side",
-    "textures": {
-        "texture": "blocks/end_stone"
-    }
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "minecraft:block/diorite"
+  }
 }

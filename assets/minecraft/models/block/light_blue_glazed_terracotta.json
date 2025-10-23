@@ -1,7 +1,6 @@
 {
-    "parent": "block/glazed_terracotta",
-    "textures": {
-        "particle": "blocks/glazed_terracotta_light_blue",
-        "pattern": "blocks/glazed_terracotta_light_blue"
-    }
+  "parent": "minecraft:block/template_glazed_terracotta",
+  "textures": {
+    "pattern": "minecraft:block/light_blue_glazed_terracotta"
+  }
 }

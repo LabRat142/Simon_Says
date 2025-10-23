@@ -1,8 +1,6 @@
 {
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "blocks/planks_birch",
-        "side": "blocks/planks_birch"
-    }
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/birch_planks"
+  }
 }
-

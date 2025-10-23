@@ -1,6 +1,6 @@
 {
-    "parent": "block/wall_side",
-    "textures": {
-        "wall": "blocks/planks_acacia"
-    }
+  "parent": "minecraft:block/template_wall_side",
+  "textures": {
+    "wall": "minecraft:block/acacia_planks"
+  }
 }

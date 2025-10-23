@@ -1,7 +1,7 @@
 {
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "blocks/planks_big_oak",
-        "side": "blocks/planks_big_oak"
-    }
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "minecraft:block/dark_oak_planks",
+    "side": "minecraft:block/dark_oak_planks"
+  }
 }

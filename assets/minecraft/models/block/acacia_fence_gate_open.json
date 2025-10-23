@@ -1,6 +1,6 @@
 {
-    "parent": "block/fence_gate_open",
-    "textures": {
-        "texture": "blocks/end_stone"
-    }
+  "parent": "minecraft:block/template_fence_gate_open",
+  "textures": {
+    "texture": "minecraft:block/end_stone"
+  }
 }
