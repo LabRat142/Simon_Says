@@ -1,7 +1,7 @@
-{{
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/note_block"
-    }
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/note_block"
+  }
 }
 
