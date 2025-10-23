@@ -9024,33 +9024,8 @@
     "sounds": [
       {
         "attenuation_distance": 6,
-        "name": "mob/bee/loop1",
+        "name": "mob/bee/bananabees",
         "volume": 0.6
-      },
-      {
-        "attenuation_distance": 6,
-        "name": "mob/bee/loop2",
-        "volume": 0.6
-      },
-      {
-        "attenuation_distance": 6,
-        "name": "mob/bee/loop3",
-        "volume": 0.65
-      },
-      {
-        "attenuation_distance": 6,
-        "name": "mob/bee/loop4",
-        "volume": 0.65
-      },
-      {
-        "attenuation_distance": 6,
-        "name": "mob/bee/loop5",
-        "volume": 0.7
-      },
-      {
-        "attenuation_distance": 6,
-        "name": "mob/bee/loop5",
-        "volume": 0.75
       }
     ],
     "subtitle": "subtitles.entity.bee.loop"
@@ -18153,7 +18128,7 @@
   "music_disc.11": {
     "sounds": [
       {
-        "name": "records/11",
+        "name": "records/rockerfeller",
         "stream": true
       }
     ]
@@ -18161,39 +18136,39 @@
   "music_disc.13": {
     "sounds": [
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
-        "name": "records/13",
+        "name": "records/allstar",
         "stream": true
       },
       {
@@ -18213,7 +18188,7 @@
   "music_disc.blocks": {
     "sounds": [
       {
-        "name": "records/blocks",
+        "name": "records/spongebobRap",
         "stream": true
       }
     ]
@@ -18221,7 +18196,7 @@
   "music_disc.cat": {
     "sounds": [
       {
-        "name": "records/cat",
+        "name": "records/k-15",
         "stream": true
       }
     ]
@@ -18229,7 +18204,7 @@
   "music_disc.chirp": {
     "sounds": [
       {
-        "name": "records/chirp",
+        "name": "records/EverydayNormalGuy",
         "stream": true
       }
     ]
@@ -18245,7 +18220,7 @@
   "music_disc.mall": {
     "sounds": [
       {
-        "name": "records/mall",
+        "name": "records/jojo_aiaiai",
         "stream": true
       }
     ]
@@ -18281,7 +18256,7 @@
   "music_disc.stal": {
     "sounds": [
       {
-        "name": "records/stal",
+        "name": "records/burek",
         "stream": true
       },
       {
@@ -18309,7 +18284,7 @@
   "music_disc.ward": {
     "sounds": [
       {
-        "name": "records/ward",
+        "name": "records/WHATISLOVE",
         "stream": true
       }
     ]
