@@ -18230,10 +18230,6 @@
       {
         "name": "records/GangStyle",
         "stream": true
-      },
-      {
-        "name": "records/AmoungUsDrip",
-        "stream": true
       }
     ]
   },
@@ -18241,6 +18237,10 @@
     "sounds": [
       {
         "name": "records/otherside",
+        "stream": true
+      },
+	  {
+        "name": "records/AmoungUsDrip",
         "stream": true
       }
     ]
