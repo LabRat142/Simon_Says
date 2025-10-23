@@ -18237,7 +18237,7 @@
   "music_disc.far": {
     "sounds": [
       {
-        "name": "records/NeverGonnaGiveYouUp",
+        "name": "records/far",
         "stream": true
       }
     ]
@@ -18253,11 +18253,7 @@
   "music_disc.mellohi": {
     "sounds": [
       {
-        "name": "records/GangStyle",
-        "stream": true
-      },
-      {
-        "name": "records/AmoungUsDrip",
+        "name": "records/mellohi",
         "stream": true
       }
     ]
