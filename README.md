@@ -30,6 +30,7 @@ All credits go to LabRat LLC. for the texture work, And Bullet Mandic Blast, for
 <br>
 <br>
 <br>
+
  ~~~
  Пред употреба на лекот, да се проверат прописите и предупредувањата за можни ефектни од користенје на лекот по совет на лекар или фармацевт.
  ~~~
