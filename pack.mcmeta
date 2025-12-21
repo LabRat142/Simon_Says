@@ -1,6 +1,7 @@
 {
-   "pack": {
-      "pack_format": 34,
-      "description": "WARNING: proceed with caution, file contains the imagination of pure evil and the essence of ya mum"
-   }
+  "pack": {
+    "min_format": 75,
+    "max_format": 75,
+    "description": "WARNING: proceed with caution, file contains the imagination of pure evil and the essence of majka ti"
+  }
 }
